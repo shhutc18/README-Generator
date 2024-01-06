@@ -73,17 +73,31 @@ ${link}
 }
 
 // TODO: Create a function to generate markdown for README
+function generateTableOfContents(sections) {
+  let tableOfContents = '## Table of Contents\n\n';
+
+  sections.forEach((section, index) => {
+    tableOfContents += `${index + 1}. [${section}](#${section.toLowerCase().replace(/ /g, '-')})\n`;
+  });
+
+  return tableOfContents;
+}
+
 function generateMarkdown(answers) {
   const licenseSection = renderLicenseSection(answers.license);
+  const licenseBadge = renderLicenseBadge(answers.license);
+  const sections = ['Description', 'Installation', 'Usage', 'License', 'Contributing', 'Tests', 'Questions'];
+  const tableOfContents = generateTableOfContents(sections);
 
   return `
 # ${answers.title}
 
+${licenseBadge}
+
 ## Description
 ${answers.description}
 
-## Table of Contents
-${answers.tableOfContents}
+${tableOfContents}
 
 ## Installation
 ${answers.installation}

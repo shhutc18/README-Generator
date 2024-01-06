@@ -20,11 +20,6 @@ function promptUser(){
         },
         {
             type: "input",
-            name: "tableOfContents",
-            message: "Table of Contents: "
-        },
-        {
-            type: "input",
             name: "installation",
             message: "Describe the installations needed: ",
         },
