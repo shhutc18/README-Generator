@@ -61,7 +61,17 @@ function promptUser(){
             type: "input",
             name: "questions",
             message: "What do I do if I have a question? "
-        }
+        },
+        {
+            type: 'input',
+            name: 'github',
+            message: 'What is your GitHub username?',
+          },
+          {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email address?',
+          }
     ]);
 } 
 

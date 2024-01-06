@@ -34,7 +34,7 @@ ${answers.contributing}
 ${answers.tests}
 
 ## Questions
-${answers.questions}
+If you have any questions about the repo, open an issue or contact me directly at ${answers.email}. You can find more of my work at [${answers.github}](https://github.com/${answers.github}/).
   `;
 }
 
