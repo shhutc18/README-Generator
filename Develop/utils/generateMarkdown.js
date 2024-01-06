@@ -10,8 +10,16 @@ function renderLicenseBadge(license) {
       return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
     case 'Apache 2.0':
       return '[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)';
-    case 'GPLv3':
+    case 'ISC':
+      return '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)';
+    case 'Mozilla':
+      return '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)';
+    case 'Academic':
+      return '[![License: AFL 3.0](https://img.shields.io/badge/License-AFL%203.0-blue.svg)](https://opensource.org/licenses/AFL-3.0)';
+    case 'GNU':
       return '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)';
+    case 'Open':
+      return '[![License: OPL 1.0](https://img.shields.io/badge/License-OPL%201.0-blue.svg)](https://opensource.org/licenses/OPL-1.0)';
     default:
       return '';
   }
@@ -25,7 +33,7 @@ function renderLicenseLink(license) {
   }
 
   switch (license) {
-    case 'Apache':
+    case 'Apache 2.0':
       return '(https://opensource.org/licenses/Apache-2.0)';
     case 'Academic':
       return '(https://opensource.org/licenses/AFL-3.0)';
