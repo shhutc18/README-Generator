@@ -66,6 +66,8 @@ ${link}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
+  const licenseSection = renderLicenseSection(answers.license);
+
   return `
 # ${answers.title}
 
@@ -82,7 +84,7 @@ ${answers.installation}
 ${answers.usage}
 
 ## License
-${answers.license}
+${licenseSection}
 
 ## Contributing
 ${answers.contributing}
