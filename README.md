@@ -1,8 +1,8 @@
-# Project Title
+# README Generator
 
 ## Description
 
-<!-- Write a brief description of your project here. -->
+This application will allow you to quickly and professionally create a README file for any application that you are developing.
 
 ## Table of Contents
 
@@ -10,29 +10,24 @@
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
 
-<!-- Describe the installation process here. -->
+User must have Node installed on their local machine.
 
 ## Usage
 
-<!-- Provide instructions and examples for use. -->
+To use this feature, please run the command "node index.js" in the terminal.
 
 ## License
 
-<!-- Let people know what kind of license your project has. -->
+Please refer to the LICENSE in the repository.
 
 ## Contributing
 
-<!-- Let people know how they can contribute to your project. -->
-
-## Tests
-
-<!-- Describe and show how to run the tests with code examples. -->
+I worked on this on this project with my peers, Chase Seeberger and Will Schickler.
 
 ## Questions
 
-<!-- Let people know where they can reach you for further questions or contributions. -->
+If you have any questions regarding this application, you can reach me at shhutc18@gmail.com. To view more of my work, please visit https://github.com/shhutc18.
