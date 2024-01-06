@@ -20,7 +20,7 @@ function promptUser(){
         },
         {
             type: "input",
-            name: "table of contents",
+            name: "tableOfContents",
             message: "Table of Contents: "
         },
         {
