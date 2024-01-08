@@ -17,6 +17,8 @@ This application will allow you to quickly and professionally create a README fi
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
+- [Link](#link)
+- [Walkthrough](#walkthrough)
 - [Questions](#questions)
 
 ## Installation
