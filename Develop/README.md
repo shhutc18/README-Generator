@@ -1,10 +1,10 @@
 
-# README
+# Example README file
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-yes
+This is an example of how the application runs.
 
 ## Table of Contents
 
@@ -18,12 +18,10 @@ yes
 
 
 ## Installation
-yes
+node.js
 
 ## Usage
-yes
-
-## License
+Building a README file
 
 ## License
 
@@ -34,11 +32,11 @@ This project is licensed under the MIT license.
   
 
 ## Contributing
-me
+Shelby Hutchinson
 
 ## Tests
-yes
+N/A
 
 ## Questions
-If you have any questions about the repository, or would like to open an issue, contact me directly at hi. You can find more of my work at [hi](https://github.com/hi/).
+If you have any questions about the repository, or would like to open an issue, contact me directly at shhutc18@gmail.com. You can find more of my work at [shhutc18](https://github.com/shhutc18/).
   

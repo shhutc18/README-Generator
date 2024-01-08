@@ -39,6 +39,11 @@ I worked on this on this project with my peers, Chase Seeberger and Will Schickl
 
 https://github.com/shhutc18/README-Generator
 
+## Walkthrough
+
+Please watch this video for a brief tutorial on how to use this application. 
+https://drive.google.com/file/d/1R-4zVLAgEo2xLYXq6xJ2b9ZwotZv97r7/view
+
 ## Questions
 
 If you have any questions regarding this application, you can reach me at shhutc18@gmail.com. To view more of my work, please visit https://github.com/shhutc18.
