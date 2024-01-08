@@ -35,6 +35,10 @@ Please refer to the LICENSE in the repository.
 
 I worked on this on this project with my peers, Chase Seeberger and Will Schickler.
 
+## Link
+
+https://github.com/shhutc18/README-Generator
+
 ## Questions
 
 If you have any questions regarding this application, you can reach me at shhutc18@gmail.com. To view more of my work, please visit https://github.com/shhutc18.
