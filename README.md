@@ -1,3 +1,11 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-inquirer-red" >
+    <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
+    <img src="https://img.shields.io/badge/-json-orange" />
+</p>
+
 # README Generator
 
 ## Description
@@ -14,11 +22,11 @@ This application will allow you to quickly and professionally create a README fi
 
 ## Installation
 
-User must have Node installed on their local machine.
+User must have node.js installed on their local machine.
 
 ## Usage
 
-To use this feature, please run the command "node index.js" in the terminal.
+To use this feature, please run the command "node index.js" in the terminal. A series of questions will appear one at a time that pertain to users project. The answers that are given will then be formatted into an accurate and professional README file that the user can display for their project.
 
 ## License
 
